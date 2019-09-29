@@ -1,0 +1,57 @@
+{
+    "doorstatusfrontleft": {
+        "value": "OPEN",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorstatusfrontright": {
+        "value": "CLOSED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorstatusrearleft": {
+        "value": "CLOSED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorstatusrearright": {
+        "value": "OPEN",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorlockstatusfrontleft": {
+        "value": "UNLOCKED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorlockstatusfrontright": {
+        "value": "LOCKED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorlockstatusrearleft": {
+        "value": "LOCKED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorlockstatusrearright": {
+        "value": "LOCKED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorlockstatusdecklid": {
+        "value": "UNLOCKED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorlockstatusgas": {
+        "value": "UNLOCKED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    },
+    "doorlockstatusvehicle": {
+        "value": "UNLOCKED",
+        "retrievalstatus": "VALID",
+        "timestamp": 1555954815
+    }
+}
